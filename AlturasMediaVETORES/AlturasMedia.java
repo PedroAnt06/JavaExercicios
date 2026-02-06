@@ -1,4 +1,4 @@
-package AlturasMedia;
+package AlturasMediaVETORES;
 
 import java.util.Locale;
 import java.util.Scanner;
