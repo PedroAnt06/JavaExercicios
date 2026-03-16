@@ -1,6 +1,6 @@
 package AluguelCarroINTERFACES.services;
 
-public class TaxaBrasil {
+public class TaxaBrasil implements TaxService{
     public double tax (double valor){
         if (valor <= 100) {
             return valor * 0.2;

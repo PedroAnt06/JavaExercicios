@@ -1,0 +1,5 @@
+package AluguelCarroINTERFACES.services;
+
+public interface TaxService {
+    double tax(double valor);
+}
